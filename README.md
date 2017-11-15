@@ -1,2 +1,2 @@
 # hello-world-
-first repository of my github.
+C++ 기능 시험 및 공부
