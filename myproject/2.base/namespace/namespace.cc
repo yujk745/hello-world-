@@ -1,3 +1,7 @@
+/*
+    이름: namespace.cc
+    설명: 같은 이름의 함수를 서로 다른 네임스페이스에 할당하여 각각 사용해보는 프로그램.
+*/
 #include <iostream>
 
 namespace funcNum1{
