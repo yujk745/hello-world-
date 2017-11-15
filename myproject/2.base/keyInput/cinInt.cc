@@ -1,5 +1,5 @@
 /*
-    이름: cin.cc
+    이름: cinInt.cc
     설명: cin을 이용하여 정수값 키보드 입력을 받아 출력하는 코드.
 */
 #include <iostream>
