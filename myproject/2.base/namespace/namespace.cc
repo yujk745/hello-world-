@@ -13,7 +13,7 @@ namespace funcNum2{
 }
 
 int main(void){
-    //std::cout<<a(5)<<'\n'; //¿¡·¯!
+    //std::cout<<a(5)<<'\n'; //ì—ëŸ¬!!
     std::cout<<funcNum1::a(5)<<'\n'; //25
     std::cout<<funcNum2::a(5)<<'\n'; //-20
     return 0;
