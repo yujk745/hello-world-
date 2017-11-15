@@ -1,3 +1,7 @@
+/*
+    이름: cinGetline.cc
+    설명: cin.getline() 함수를 이용하여 문장을 입력받는 소스.
+*/
 #include <iostream>
 #include <cstring>
 
