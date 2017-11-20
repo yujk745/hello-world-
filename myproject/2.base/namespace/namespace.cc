@@ -1,6 +1,6 @@
 /*
-    ì´ë¦„: namespace.cc
-    ì„¤ëª…: ê°™ì€ ì´ë¦„ì˜ í•¨ìˆ˜ë¥¼ ì„œë¡œ ë‹¤ë¥¸ ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ì— í• ë‹¹í•˜ì—¬ ê°ê° ì‚¬ìš©í•´ë³´ëŠ” í”„ë¡œê·¸ëž¨.
+    ÀÌ¸§: namespace.cc
+    ¼³¸í: °°Àº ÀÌ¸§ÀÇ ÇÔ¼ö¸¦ ¼­·Î ´Ù¸¥ ³×ÀÓ½ºÆäÀÌ½º¿¡ ÇÒ´çÇÏ¿© °¢°¢ »ç¿ëÇØº¸´Â ÇÁ·Î±×·¥.
 */
 #include <iostream>
 
@@ -17,7 +17,7 @@ namespace funcNum2{
 }
 
 int main(void){
-    //std::cout<<a(5)<<'\n'; //ì—ëŸ¬!!
+    //std::cout<<a(5)<<'\n'; //¿¡·¯!!
     std::cout<<funcNum1::a(5)<<'\n'; //25
     std::cout<<funcNum2::a(5)<<'\n'; //-20
     return 0;
